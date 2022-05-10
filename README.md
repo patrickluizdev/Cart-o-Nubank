@@ -1,4 +1,4 @@
-# _Cartão Nubank_
-## Este projeto tem como objetivo treinar atributos e fundamentos Html, Css e javaScript.
+# *Cartão Nubank*
+## Este projeto tem como objetivo treinar atributos e fundamentos HTML, CSS e javaScript.
 
 ## _ScreenShots_
