@@ -27,4 +27,17 @@ body{
 }
 
 
+/* *********** alt *********** */
+
+img[alt=mastercard]{
+    width: ;
+}
+
+img[alt=chip]{
+
+}
+
+
+
+
 
