@@ -5,4 +5,8 @@
 
 ![](https://raw.githubusercontent.com/patrickluizdev/CartaoNubank/main/src/Screen.png)
 
+![](https://raw.githubusercontent.com/patrickluizdev/CartaoNubank/main/src/Screen1.png)
+
+![](https://raw.githubusercontent.com/patrickluizdev/CartaoNubank/main/src/Screen2.png)
+
 ![]()
